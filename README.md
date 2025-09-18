@@ -34,6 +34,6 @@
 
 <h2 align="left">:heart: Let's get connected:</h2>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Abdelrahman%20Elkholy-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abdelrahman-elkholy)](https://www.linkedin.com/in/abdelrahman-elkholy)  
+[![Linkedin Badge](https://img.shields.io/badge/-Abdelrahman%20Elkholy-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abdelrahman-elkholy-19230724a)](https://www.linkedin.com/in/abdelrahman-elkholy-19230724a)  
 [![GitHub Badge](https://img.shields.io/badge/-Abdelrahman%20Elkholy-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/)](https://github.com/)  
 [![Instagram Badge](https://img.shields.io/badge/-@your_instagram-D7008A?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/)](https://www.instagram.com/)
